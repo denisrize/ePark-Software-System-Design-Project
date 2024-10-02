@@ -9,13 +9,12 @@
   </tr>
 </table>
 
+This project is part of my Software Systems Analysis and Design course. The main objective is to develop a complete software system starting from a use case. This includes creating use case diagrams, system sequence diagrams (SSD), and detailed class diagrams (DCD), as well as defining contracts and assigning responsibilities for each function. The final step is integrating all the components into a cohesive system.
 
 ## Authors
 
 - [**Denis Rize**](https://github.com/denisrize)
 - [**Lior Tkach**](https://github.com/liortkach)
-
-This project is part of my Software Systems Analysis and Design course. The main objective is to develop a complete software system starting from a use case. This includes creating use case diagrams, system sequence diagrams (SSD), and detailed class diagrams (DCD), as well as defining contracts and assigning responsibilities for each function. The final step is integrating all the components into a cohesive system.
 
 # Table of Contents
 
