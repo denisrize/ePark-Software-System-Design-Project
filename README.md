@@ -1,5 +1,49 @@
-# Electronical Amusement Park
+<table>
+  <tr>
+    <td>
+      <h1>Electronical Amusement Park</h1>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/46b4f359-1b1e-4627-8864-b16ff2a6e707" alt="e-park" width="200">
+    </td>
+  </tr>
+</table>
+
+
+## Authors
+
+- [**Denis Rize**](https://github.com/denisrize)
+- [**Lior Tkach**](https://github.com/liortkach)
+
 This project is part of my Software Systems Analysis and Design course. The main objective is to develop a complete software system starting from a use case. This includes creating use case diagrams, system sequence diagrams (SSD), and detailed class diagrams (DCD), as well as defining contracts and assigning responsibilities for each function. The final step is integrating all the components into a cohesive system.
+
+# Table of Contents
+
+1. [Story Framework](#story-framework)
+2. [Overview](#overview)
+3. [Features](#features)
+4. [How to Use](#how-to-use)
+   - [Prerequisites](#prerequisites)
+   - [Running the System](#running-the-system)
+   - [Example Workflow](#example-workflow)
+5. [Notes](#notes)
+6. [Planning and Design](#planning-and-design)
+   - [White Diagram](#white-diagram)
+   - [Use Cases](#use-cases)
+     - [Use Case 1](#use-case-1)
+       - [Contracts](#contracts)
+       - [DCD](#dcd)
+       - [Responsibilities Decision](#responsibilities-decision)
+     - [Use Case 2](#use-case-2)
+       - [Contracts](#contracts-1)
+       - [SSD](#ssd)
+       - [Responsibilities Decision](#responsibilities-decision-1)
+     - [Use Case 3](#use-case-3)
+       - [Contracts](#contracts-2)
+       - [DCD](#dcd-1)
+       - [Responsibilities Decision](#responsibilities-decision-2)
+     - [Use Case 4](#use-case-4)
+7. [Final DCD](#final-dcd)
 
 ## Story Framework:
 ePark is an amusement park managed and operated through a computerized system that controls all the park's rides (devices), which are purchased from different manufacturers.
@@ -79,7 +123,7 @@ This project is part of the Software Systems Analysis and Design course. It simu
 - The child’s ticket and ride statuses are updated in real-time as they interact with the system.
 
 
-# Planing and Design:
+# Planning and Design
 
 ## White diagram:
 
@@ -113,7 +157,7 @@ Post-conditions:
 - c.Height is updated to messured height (attribute modification).
 - C.Weight is updated to messurd weight ( attribute modifications).
 
-**DCD**
+#### DCD
 
 ![DCD1](https://github.com/user-attachments/assets/e000b5ae-ff4a-4d08-a8fb-f068c1518567)
 
@@ -164,7 +208,7 @@ Pre-conditions:
 Post-condition:
 - slot attribute slot.amount is decreased by quantity ( attribute modification).
 
-**SSD**:
+#### SSD
 
 ![SSD2](https://github.com/user-attachments/assets/490cc75b-4f03-40da-9892-752271048bbb)
 
@@ -208,7 +252,7 @@ Post-conditions:
 Responsibilities Decision:
 Operation:
 
-**DCD**
+#### DCD
 
 ![dcd3](https://github.com/user-attachments/assets/0c020213-ba46-4d72-8790-58017702b724)
 
